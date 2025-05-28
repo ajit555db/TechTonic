@@ -1,8 +1,10 @@
 ---
-title: "Your Blog Title"
-date: "2025-05-28"
-author: Your Name
-excerpt: "A short summary of your blog post."
+author: Ajit Singh
+title: Empty Blog Template
+excerpt: Use this template to create new blog pages
+date: 2025-05-28
+modified: 2025-05-28
 ---
+
 
 Your blog content goes here. You can use Markdown and JSX components!
